@@ -1,0 +1,6 @@
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\bin\Debug\Exercicio1.SeArraySomenteInteiro.exe.config
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\bin\Debug\Exercicio1.SeArraySomenteInteiro.exe
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\bin\Debug\Exercicio1.SeArraySomenteInteiro.pdb
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\obj\Debug\Exercicio1.SeArraySomenteInteiro.csprojResolveAssemblyReference.cache
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\obj\Debug\Exercicio1.SeArraySomenteInteiro.exe
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio1.SeArraySomenteInteiro\obj\Debug\Exercicio1.SeArraySomenteInteiro.pdb

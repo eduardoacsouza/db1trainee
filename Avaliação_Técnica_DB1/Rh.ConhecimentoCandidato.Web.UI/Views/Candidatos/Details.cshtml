@@ -1,0 +1,107 @@
+﻿@model Rh.ConhecimentoCandidato.Dominio.Candidato
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Candidato</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Vagas.NomeVaga)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vagas.NomeVaga)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeCandidato)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeCandidato)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Telefone1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Telefone2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkedInURL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkedInURL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FacebookURL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FacebookURL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Detalhes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Detalhes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pontuacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pontuacao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model=>model.Tecnologias)
+        </dt>
+        <dd>
+            <!--Listar informações de MultiListBox-->
+            @foreach (var item in Model.Tecnologias)
+            {
+                @Html.DisplayFor(modelItem => item.NomeTecnologia)<br />
+            }
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

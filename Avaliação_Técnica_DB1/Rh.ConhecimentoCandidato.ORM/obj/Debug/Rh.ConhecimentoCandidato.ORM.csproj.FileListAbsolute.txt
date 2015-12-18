@@ -1,0 +1,14 @@
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\obj\Debug\Rh.ConhecimentoCandidato.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\Rh.ConhecimentoCandidato.ORM.dll.config
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\Rh.ConhecimentoCandidato.ORM.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\Rh.ConhecimentoCandidato.ORM.pdb
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\EntityFramework.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\Rh.ConhecimentoCandidato.Dominio.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\Rh.ConhecimentoCandidato.Dominio.pdb
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\EntityFramework.xml
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\obj\Debug\Rh.ConhecimentoCandidato.ORM.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\obj\Debug\Rh.ConhecimentoCandidato.ORM.pdb
+C:\Users\Eduardo Souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\obj\Debug\Rh.ConhecimentoCandidato.ORM.Migrations.first.resources
+C:\Users\Eduardo Souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.ORM\obj\Debug\Rh.ConhecimentoCandidato.ORM.csproj.GenerateResource.Cache

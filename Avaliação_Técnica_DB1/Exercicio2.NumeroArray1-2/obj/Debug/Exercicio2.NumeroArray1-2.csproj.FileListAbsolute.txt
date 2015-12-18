@@ -1,0 +1,6 @@
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\bin\Debug\Exercicio2.NumeroArray1-2.exe.config
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\bin\Debug\Exercicio2.NumeroArray1-2.exe
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\bin\Debug\Exercicio2.NumeroArray1-2.pdb
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\obj\Debug\Exercicio2.NumeroArray1-2.exe
+c:\users\eduardo souza\documents\visual studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\obj\Debug\Exercicio2.NumeroArray1-2.pdb
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Exercicio2.NumeroArray1-2\obj\Debug\Exercicio2.NumeroArray1-2.csprojResolveAssemblyReference.cache

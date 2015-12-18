@@ -1,0 +1,10 @@
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\Rh.ConhecimentoCandidato.Dominio.dll.config
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\Rh.ConhecimentoCandidato.Dominio.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\Rh.ConhecimentoCandidato.Dominio.pdb
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\obj\Debug\Rh.ConhecimentoCandidato.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\obj\Debug\Rh.ConhecimentoCandidato.Dominio.dll
+C:\Users\Eduardo Souza\Documents\Visual Studio 2015\Projects\Avaliação Técnica DB1\Rh.ConhecimentoCandidato.Dominio\obj\Debug\Rh.ConhecimentoCandidato.Dominio.pdb
